@@ -1,0 +1,66 @@
+.container {
+	position: relative;
+    color: white;
+    text-align: center;
+    width: 387px;
+    height: 144px;
+    margin-right: 0px;
+}
+.name {
+	font-family: 'Exo 2', sans-serif;
+	color: #646564;
+	font-size: 14px;
+	font-weight: bold;
+	position: relative;
+	bottom: 117px;
+	left: 77px;
+}
+
+.job {
+	font-family: 'Exo 2', sans-serif;
+	color: #646564;
+	font-size: 13px;
+	font-weight: thin;
+	position: relative;
+	bottom: 112px;
+	left: 60px;
+	
+}
+
+a {
+	font-family: 'Exo 2', sans-serif;
+	color: #646564;
+	text-decoration: none;
+	font-weight: thin;
+	font-size: 13px;
+	position: relative;
+	bottom: 105px;
+	left: 99px;
+}
+
+body {
+	width: 387px;
+    height: 144px;
+}
+
+.hilsen {
+	font-family: 'Exo 2', sans-serif;
+	color: #646564;
+	font-size: 14px;
+	font-weight: thin;
+	position: relative;
+	bottom: 130px;
+	left: 90px;
+	
+}
+
+.web {
+	font-family: 'Exo 2', sans-serif;
+	color: #314655;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 13px;
+	position: relative;
+	bottom: 50px;
+	left: 43px;
+}
